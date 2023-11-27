@@ -4,3 +4,4 @@ if greeting in ["Arrr!"]:  #changed the bracket ')' to ']'
 else: #modified 'elif' to 'else:'
     print("Go away, pirate.")  #added indentation and changed the texts from "Greetings, hater of pirates!" to "Go away, pirate."
 
+
