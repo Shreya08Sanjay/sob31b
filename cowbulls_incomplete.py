@@ -1,3 +1,4 @@
+
 import random
 
 def compare_numbers(number, user_guess):
@@ -44,4 +45,3 @@ while playing:
         break #redundant exit
     else:
         print("Your guess isn't quite right, try again.")
-
